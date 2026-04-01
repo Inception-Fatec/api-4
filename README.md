@@ -25,15 +25,15 @@ Atender às demandas de precisão e granularidade exigidas pelo agronegócio de 
 ---
 
 ###  Requisitos Funcionais (RF)
-* **RFN01 - Modelo de Dados Dinâmico:** Capacidade de receber e registrar estações meteorológicas equipadas com diversos tipos de sensores.
-* **RFN02 - CRUD Completo:** Funcionalidades de criação, leitura, atualização e exclusão para Estações, Parâmetros, Alertas e Usuários.
-* **RFN03 - Recepção de Dados:** Processamento e armazenamento dos dados enviados pelas estações meteorológicas.
-* **RFN04 - Dashboards:** Visualização interativa dos parâmetros meteorológicos.
-* **RFN05 - Geração de Alertas:** Criação automática de notificações baseadas em condições meteorológicas específicas.
-* **RFN06 - Desenvolvimento de Datalogger:** Implementação de um datalogger para registrar dados em uma estação meteorológica.
-* **RFN07 - Montagem da Estação:** Construção física de uma estação meteorológica com os componentes necessários.
-* **RFN08 - Tutorial Educativo:** Desenvolvimento de um guia explicativo sobre o significado de cada parâmetro meteorológico medido.
-* **RFN09 - Autenticação:** O sistema deve fornecer uma interface que permita Operador ou Usuário realizar o login mediante credenciais válidas.
+* **01 - Modelo de Dados Dinâmico:** Capacidade de receber e registrar estações meteorológicas equipadas com diversos tipos de sensores.
+* **02 - CRUD Completo:** Funcionalidades de criação, leitura, atualização e exclusão para Estações, Parâmetros, Alertas e Usuários.
+* **03 - Recepção de Dados:** Processamento e armazenamento dos dados enviados pelas estações meteorológicas.
+* **04 - Dashboards:** Visualização interativa dos parâmetros meteorológicos.
+* **05 - Geração de Alertas:** Criação automática de notificações baseadas em condições meteorológicas específicas.
+* **06 - Desenvolvimento de Datalogger:** Implementação de um datalogger para registrar dados em uma estação meteorológica.
+* **07 - Montagem da Estação:** Construção física de uma estação meteorológica com os componentes necessários.
+* **08 - Tutorial Educativo:** Desenvolvimento de um guia explicativo sobre o significado de cada parâmetro meteorológico medido.
+* **09 - Autenticação:** O sistema deve fornecer uma interface que permita Operador ou Usuário realizar o login mediante credenciais válidas.
 
 ###  Requisitos Não Funcionais (RNF)
 * **Experiência do Usuário (UX):** O design dos dashboards deve priorizar a usabilidade e a estética para o melhor engajamento dos usuários.
@@ -47,7 +47,7 @@ Atender às demandas de precisão e granularidade exigidas pelo agronegócio de 
 
 Abaixo estão as User Stories priorizadas e estimadas pelo time, divididas por Sprints para facilitar o acompanhamento das entregas.
 
-| RFN | Rank | Prioridade | User Story | Estimativa | Sprint |
+| RF | Rank | Prioridade | User Story | Estimativa | Sprint |
 | :---: | :---: | :---: | --- | :---: | :---: |
 | **09** | 1 |  Alta | Como operador, quero efetuar login no sistema de forma segura para acessar as funcionalidades administrativas restritas. | 8 | **1** |
 | **02** | 2 |  Alta | Como administrador, quero cadastrar novos administradores e operadores para descentralizar e auxiliar na gestão do sistema. | 5 | **1** |
