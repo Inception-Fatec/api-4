@@ -85,6 +85,7 @@ Para que uma tarefa seja considerada pronta para entrar em uma Sprint, ela deve 
 ## Links Úteis
 
 - [Modelo do Banco de Dados](https://drive.google.com/file/d/18yUxya8_wpQCmzCOSq8FHJrW0V8Bu8-m/view?usp=sharing)
+- [Tabela RBAC, Role-Based Access Control](https://docs.google.com/spreadsheets/d/17-Fh048_ZBMg9pagci_lWP45WOg9_uxO/edit?usp=sharing&ouid=104153229087635960307&rtpof=true&sd=true)
 - [Elicitação de Requisitos](https://drive.google.com/file/d/1ShDRmZJhckWnaFhiGJOOwl0BRvxQV6le/view?usp=sharing)
 - [Fluxo de Entregas](https://drive.google.com/file/d/1Tsl4ooda1WgTUd1ZgnHvqcp75jaXHcYA/view?usp=sharing)
 - [Mockup do Projeto](https://drive.google.com/file/d/1p6P29K0tUN_DnKkGYm8xj4WN0oVwOUfG/view?usp=sharing)
