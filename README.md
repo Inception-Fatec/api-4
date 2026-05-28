@@ -67,7 +67,7 @@ Abaixo estão as User Stories priorizadas e estimadas pelo time, divididas por S
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
 | 01 | 16/03/2026 a 05/04/2026 | Finalizado | [Ver relatório](https://drive.google.com/file/d/1_HgLopyOHJdeE_aSdh8RHsnkOMto9e46/view?usp=sharing) |
-| 02 | 13/04/2026 a 03/05/2026 | Em breve | [Ver relatório]() |
+| 02 | 13/04/2026 a 03/05/2026 | Em breve | [Ver relatório](https://drive.google.com/file/d/1_D0Wdrt1m-rWnE_LEHVtaFC3mEjeEy_C/view?usp=sharing) |
 | 03 | 11/05/2026 a 31/05/2026 | Em breve |  [Ver relatório]()|
 
 ---
@@ -106,3 +106,4 @@ Para que uma tarefa seja considerada pronta para entrar em uma Sprint, ela deve 
 |  Team Member  | Lucas Guerra     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-guerra000/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasguerra12)   |
 |  Team Member  | Lucas Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmscarmo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMSCarmo)   |
 |  Team Member  | Matheus Karnas              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheuskarnas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheuskarnas)   |
+|  Team Member  | Nicoly Guedes              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicoly-guedes-dev/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicolygz)   |
