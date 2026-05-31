@@ -13,3 +13,6 @@
 [submodule "tecsus-mqtt-subscriber"]
 	path = tecsus-mqtt-subscriber
 	url = https://github.com/Inception-Fatec/tecsus-mqtt-subscriber
+[submodule "tecsus-mqtt-publisher"]
+	path = tecsus-mqtt-publisher
+	url = https://github.com/Inception-Fatec/tecsus-mqtt-publisher
