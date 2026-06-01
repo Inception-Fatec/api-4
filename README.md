@@ -66,9 +66,9 @@ Abaixo estão as User Stories priorizadas e estimadas pelo time, divididas por S
 
 | Sprint | Previsão de entrega | Status | Histórico |
 |:--:|:----------:|:-------------------|:-------------------------------------------------:|
-| 01 | 16/03/2026 a 05/04/2026 | Em andamento | [Ver relatório]() |
-| 02 | 13/04/2026 a 03/05/2026 | Em breve | [Ver relatório]() |
-| 03 | 11/05/2026 a 31/05/2026 | Em breve |  [Ver relatório]()|
+| 01 | 16/03/2026 a 05/04/2026 | Finalizado | [Ver relatório](https://drive.google.com/file/d/1_HgLopyOHJdeE_aSdh8RHsnkOMto9e46/view?usp=sharing) |
+| 02 | 13/04/2026 a 03/05/2026 | Em breve | [Ver relatório](https://drive.google.com/file/d/1_D0Wdrt1m-rWnE_LEHVtaFC3mEjeEy_C/view?usp=sharing) |
+| 03 | 11/05/2026 a 31/05/2026 | Em breve |  [Ver relatório](https://drive.google.com/file/d/131Lu9v0dZR0iemrUbI70TcfjzMVWQvul/view?usp=sharing)|
 
 ---
 
@@ -84,12 +84,14 @@ Para que uma tarefa seja considerada pronta para entrar em uma Sprint, ela deve 
 
 ## Links Úteis
 
-- [Modelo do Banco de Dados](https://github.com/Inception-Fatec/docs/blob/scrum-9999-updating-docs/images/banco-de-dados.jpeg)
-- [Elicitação de Requisitos](https://github.com/Inception-Fatec/docs/blob/scrum-9999-updating-docs/images/elicitacao-de-requisitos.png)
-- [Fluxo de Entregas](https://github.com/Inception-Fatec/docs/blob/scrum-9999-updating-docs/images/Fluxo%20de%20entrega.jpg)
-- [Mockup do Projeto](https://github.com/Inception-Fatec/docs/blob/scrum-9999-updating-docs/documents/mockup-tecsus.pdf)
-- [Guia de Desenvolvimento](https://github.com/Inception-Fatec/docs/blob/scrum-9999-updating-docs/documents/processo-de-desenvolvimento.pdf)
-- [DevOps Docs](https://github.com/Inception-Fatec/docs/tree/scrum-9999-updating-docs/documents)
+- [Modelo do Banco de Dados](https://drive.google.com/file/d/18yUxya8_wpQCmzCOSq8FHJrW0V8Bu8-m/view?usp=sharing)
+- [Tabela RBAC, Role-Based Access Control](https://docs.google.com/spreadsheets/d/17-Fh048_ZBMg9pagci_lWP45WOg9_uxO/edit?usp=sharing&ouid=104153229087635960307&rtpof=true&sd=true)
+- [Elicitação de Requisitos](https://drive.google.com/file/d/1ShDRmZJhckWnaFhiGJOOwl0BRvxQV6le/view?usp=sharing)
+- [Fluxo de Entregas](https://drive.google.com/file/d/1Tsl4ooda1WgTUd1ZgnHvqcp75jaXHcYA/view?usp=sharing)
+- [Mockup do Projeto](https://drive.google.com/file/d/1p6P29K0tUN_DnKkGYm8xj4WN0oVwOUfG/view?usp=sharing)
+- [Onboarding de Novos Membros](https://docs.google.com/document/d/1b4mSGMyWPyq6AOTlBTp0pLTUoy2Yk7Q7oU-cBg2QVH0/edit?usp=sharing)
+- [Guia de Desenvolvimento](https://docs.google.com/document/d/1b4mSGMyWPyq6AOTlBTp0pLTUoy2Yk7Q7oU-cBg2QVH0/edit?usp=sharing)
+- [DevOps Docs](https://drive.google.com/drive/folders/1NVWPxc3sS2haeArmtEPTIM5_LAHxXVeA?usp=sharing)
 
 ## Equipe
 
@@ -104,3 +106,4 @@ Para que uma tarefa seja considerada pronta para entrar em uma Sprint, ela deve 
 |  Team Member  | Lucas Guerra     |           [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucas-guerra000/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/lucasguerra12)   |
 |  Team Member  | Lucas Martins               |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/lucasmscarmo/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/LucasMSCarmo)   |
 |  Team Member  | Matheus Karnas              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/matheuskarnas/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/matheuskarnas)   |
+|  Team Member  | Nicoly Guedes              |   [![Linkedin Badge](https://img.shields.io/badge/Linkedin-blue?style=flat-square&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/nicoly-guedes-dev/) [![GitHub Badge](https://img.shields.io/badge/GitHub-111217?style=flat-square&logo=github&logoColor=white)](https://github.com/nicolygz)   |
