@@ -7,3 +7,12 @@
 [submodule "docs"]
 	path = docs
 	url = https://github.com/Inception-Fatec/docs
+[submodule "tecsus-data-processor"]
+	path = tecsus-data-processor
+	url = https://github.com/Inception-Fatec/tecsus-data-processor
+[submodule "tecsus-mqtt-subscriber"]
+	path = tecsus-mqtt-subscriber
+	url = https://github.com/Inception-Fatec/tecsus-mqtt-subscriber
+[submodule "tecsus-mqtt-publisher"]
+	path = tecsus-mqtt-publisher
+	url = https://github.com/Inception-Fatec/tecsus-mqtt-publisher
