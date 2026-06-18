@@ -4,9 +4,6 @@
 [submodule "front-end"]
 	path = front-end
 	url = https://github.com/Inception-Fatec/front-end
-[submodule "docs"]
-	path = docs
-	url = https://github.com/Inception-Fatec/docs
 [submodule "tecsus-data-processor"]
 	path = tecsus-data-processor
 	url = https://github.com/Inception-Fatec/tecsus-data-processor
